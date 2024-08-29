@@ -1,5 +1,5 @@
 # Hello, this is Tanaka Asande Mlambo
-This Repository showcases the multiple Azure projects that I have done over time.
+This Repository showcases the multiple of my AWS projects.
 
 ## 👨‍💻  AWS-Projects:
 
